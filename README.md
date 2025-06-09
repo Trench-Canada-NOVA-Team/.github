@@ -1,1 +1,2 @@
-# .github
+# Nova Team Collaborative Codebase
+Welcome!
